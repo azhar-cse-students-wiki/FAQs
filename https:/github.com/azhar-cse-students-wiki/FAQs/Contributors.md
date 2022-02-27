@@ -1,4 +1,4 @@
-# List Of Contributers to our GitHub Organization
+# List Of Contributors to our GitHub Organization
 
 ### if you didn't find your name here, please make a Pull Request with your name and contributions 
 
